@@ -1,4 +1,1 @@
-
-Competitive programming 
-
-Solutions
+Depreacted
