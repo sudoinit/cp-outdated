@@ -1,18 +1,15 @@
-/*input
-1
-5
-2 4 8 1 3
-*/
+
+
 
 #include <iostream>
 
 using namespace std;
 int main(){
-	int t;
+			int t;
 	cin >> t;
 
 	while(t--){
-		long long int n;
+			long long int n;
 		cin >> n;
 		long long int a[n];
 		long long int f[1000010] = {0};
