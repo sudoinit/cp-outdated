@@ -1,9 +1,7 @@
-
-
-
 #include <iostream>
-
 using namespace std;
+
+
 int main(){
 			int t;
 	cin >> t;
@@ -42,5 +40,5 @@ int main(){
 		cout << ans << endl;
 
 	}
-
+	return 0;
 }
